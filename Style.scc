@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+    color: #49C61A;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}  
+
+header {
+    background-color: #27a227;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img {
+    height: 80px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    background-color: #3e733e;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+.advantages {
+    background-color: #27a227;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+}
+    
+footer {
+    background-color: #4f4f4f;
+    color: white;
+    padding: 10px;
+}
+
+.Main {
+    text-decoration: underline;
+    text-decoration-color: #50F412;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 3px;
+}
+
+.Image {
+    width: 522px;
+    height: 281px;
+}
+
+.Img2 {
+    width: 276px;
+    height: 256px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.advantages h2 {
+    text-align: center;
+}
